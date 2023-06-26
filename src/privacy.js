@@ -18,7 +18,7 @@ const privacy = () => {
       <p>
       Effective Date: 26 Mon 2023
 
-        This Privacy Policy describes how personal information is collected, used, and disclosed when you use our Gym Application (referred to as the "App") provided by [Your Company Name] (referred to as "we" or "us"). By using the App, you agree to the collection and use of your personal information as outlined in this Privacy Policy.
+        This Privacy Policy describes how personal information is collected, used, and disclosed when you use our Gym Application provided by us. By using the App, you agree to the collection and use of your personal information as outlined in this Privacy Policy.
 
         Information We Collect:
         1.1 Personal Information:
